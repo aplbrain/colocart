@@ -18,7 +18,7 @@ URL = "https://github.com/aplbrain/colocart"
 EMAIL = "jordan.matelsky@jhuapl.edu"
 AUTHOR = "Jordan Matelsky"
 REQUIRES_PYTHON = ">=3.6.0"
-VERSION = "0.3.0"
+VERSION = "0.1.0"
 
 # What packages are required for this module to be executed?
 REQUIRED = ["boto3", "click", "colored"]
